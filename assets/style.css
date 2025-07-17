@@ -1,0 +1,47 @@
+header{
+    background: white;
+}
+
+.connect{
+    background: #474747;
+    color:white;
+}
+
+.container{
+}
+
+.phone-icon,.mail-icon{
+    width:20px;
+    height:20px;
+}
+
+.header-icon{
+    width: 27px;
+    height: 27px;
+}
+
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+
+.booking-btn{
+    border-radius: 10px;
+}
+
+.main-content{
+    border:1px solid black;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-1{
+    background-color: #AD343E;
+    color:white;
+}
